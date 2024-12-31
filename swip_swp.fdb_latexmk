@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1735656392.33886 "/home/qureshi/Desktop/111/swip_swp.tex" "swip_swp.pdf" "swip_swp" 1735656392.79013 2
+  "/etc/texmf/web2c/texmf.cnf" 1735641290.89705 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/qureshi/Desktop/111/swip_swp.tex" 1735656391.80437 3420 97564569f0e489f6494660f2cddb7cea ""
+  "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/lualatex/arabluatex/arabluatex.sty" 1585002335 15884 5199baaceb2ae4c96bf87d9dc9a59a87 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1735650418 8214637 e13376e58b5e3bfe8faf392dd1cae059 ""
+  "swip_swp.aux" 1735656392.33537 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "swip_swp.tex" 1735656391.80437 3420 97564569f0e489f6494660f2cddb7cea ""
+  (generated)
+  "swip_swp.aux"
+  "swip_swp.log"
+  "swip_swp.pdf"
+  (rewritten before read)

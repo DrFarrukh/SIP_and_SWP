@@ -1,0 +1,622 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.12.31)  31 DEC 2024 21:57
+ restricted system commands enabled.
+**swip_swp.tex
+(./swip_swp.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/qureshi/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/qureshi/.texlive2023/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/qureshi/.texlive2023/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks19
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2023/12/11 v1.66 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count276
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count277
+\l__fontspec_language_int=\count278
+\l__fontspec_strnum_int=\count279
+\l__fontspec_tmp_int=\count280
+\l__fontspec_tmpa_int=\count281
+\l__fontspec_tmpb_int=\count282
+\l__fontspec_tmpc_int=\count283
+\l__fontspec_em_int=\count284
+\l__fontspec_emdef_int=\count285
+\l__fontspec_strong_int=\count286
+\l__fontspec_strongdef_int=\count287
+\l__fontspec_tmpa_dim=\dimen159
+\l__fontspec_tmpb_dim=\dimen160
+\l__fontspec_tmpc_dim=\dimen161
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count288
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+)
+Lua module: polyglossia 2013/05/11 1.3 Polyglossia
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.lde
+Package: gloss-latex 2023/12/11 v1.66 polyglossia: module for default language
+)
+Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+Package polyglossia Info: Option: English, variant=american.
+)
+Package polyglossia Info: Default language is english.
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-urdu.ldf
+File: gloss-urdu.ldf polyglossia: module for Urdu
+
+(/usr/share/texlive/texmf-dist/tex/lualatex/luabidi/luabidi.sty
+Package: luabidi 2023/10/01 v0.6 Bidirectional typesetting in LuaTeX
+
+(/usr/share/texlive/texmf-dist/tex/lualatex/luabidi/luabidi-footnotes.def
+\footnoterulewidth=\skip53
+))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/arabicnumbers.sty
+Package: arabicnumbers 2010/03/18 v0.2 Formatting of Arabic and Farsi digits an
+d of Arabic abjad numerals
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/hijrical.sty
+Package: hijrical 2010/07/12 v0.2 Islamic calendar
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count289
+\calc@Bcount=\count290
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count291
+\calc@Cskip=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/cal-util.def
+\c@tmpA=\count292
+\c@tmpB=\count293
+\c@tmpC=\count294
+\c@tmpD=\count295
+\c@tmpE=\count296
+\c@tmpF=\count297
+)
+\c@Hijriday=\count298
+\c@Hijrimonth=\count299
+\c@Hijriyear=\count300
+)
+Module polyglossia Warning: Language urdu not found in language.dat.lua on input
+ line 22
+Package polyglossia Info: Option: Urdu, calendar=gregorian.
+Package polyglossia Info: Option: Urdu, numerals=eastern.
+)
+
+Package polyglossia Warning: Unknown Urdu numerals option `hindu' on input line
+ 8.
+
+
+Package polyglossia Warning: Unknown Urdu numerals option `hindu' on input line
+ 8.
+
+
+Package polyglossia Warning: Unknown Urdu numerals option `hindu' on input line
+ 8.
+
+luaotfload | cache : Lookup cache loaded from /home/qureshi/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Font family 'NotoNastaliqUrdu(0)' created for font
+(fontspec)             'Noto Nastaliq Urdu' with options
+(fontspec)             [Renderer=Harfbuzz,Script=Arabic,Language=Urdu,Scale=0.8
+,AutoFakeBold=1.0,AutoFakeSlant=0.15].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.8]"NotoNastaliqUrdu:mode=harf;script=arab;langua
+ge=URD;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.8]"NotoNastaliqUrdu:mode=harf;script=arab;langua
+ge=URD;embolden=1.0;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.8]"NotoNastaliqUrdu:mode=harf;script=arab;langua
+ge=URD;slant=0.15;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.8]"NotoNastaliqUrdu:mode=harf;script=arab;langua
+ge=URD;embolden=1.0;slant=0.15;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+(./swip_swp.aux)
+\openout1 = swip_swp.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+4.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen164
+\scratchbox=\box54
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen165
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
+LaTeX Font Info:    Redeclaring math accent \check on input line 34.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 34.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+<sip_phase_plot.png, id=1, 867.24pt x 578.16pt>
+File: sip_phase_plot.png Graphic file (type png)
+<use sip_phase_plot.png>
+Package luatex.def Info: sip_phase_plot.png  used on input line 56.
+(luatex.def)             Requested size: 271.7835pt x 181.18623pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<swp_rate_simulations.png, id=2, 867.24pt x 578.16pt>
+File: swp_rate_simulations.png Graphic file (type png)
+<use swp_rate_simulations.png>
+Package luatex.def Info: swp_rate_simulations.png  used on input line 63.
+(luatex.def)             Requested size: 271.7835pt x 181.18623pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<swp_growth_rate_simulations_with_swp_amounts.png, id=3, 867.24pt x 578.16pt>
+File: swp_growth_rate_simulations_with_swp_amounts.png Graphic file (type png)
+<use swp_growth_rate_simulations_with_swp_amounts.png>
+Package luatex.def Info: swp_growth_rate_simulations_with_swp_amounts.png  used
+ on input line 70.
+(luatex.def)             Requested size: 271.7835pt x 181.18623pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no ا (U+0627) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ک (U+06A9) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ر (U+0631) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ی (U+06CC) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no م (U+0645) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ٹ (U+0679) in font [lmroman12-regular]:+tlig;!
+]
+Overfull \vbox (16.02742pt too high) has occurred while \output is active []
+
+
+[2<./sip_phase_plot.png><./swp_rate_simulations.png><./swp_growth_rate_simulatio
+ns_with_swp_amounts.png>] [3]
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/m/n' will be
+(Font)              scaled to size 9.60004pt on input line 134.
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/m/n' will be
+(Font)              scaled to size 11.52003pt on input line 134.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 134.
+LaTeX Info: Redefining \sffamily on input line 134.
+LaTeX Info: Redefining \ttfamily on input line 134.
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/bx/n' in size <17.28> no
+t available
+(Font)              Font shape `TU/NotoNastaliqUrdu(0)/b/n' tried instead on in
+put line 136.
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/b/n' will be
+(Font)              scaled to size 13.82405pt on input line 136.
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/bx/n' in size <14.4> not
+ available
+(Font)              Font shape `TU/NotoNastaliqUrdu(0)/b/n' tried instead on in
+put line 136.
+LaTeX Font Info:    Font shape `TU/NotoNastaliqUrdu(0)/b/n' will be
+(Font)              scaled to size 11.52003pt on input line 136.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 136.
+LaTeX Info: Redefining \sffamily on input line 136.
+LaTeX Info: Redefining \ttfamily on input line 136.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 139.
+LaTeX Info: Redefining \sffamily on input line 139.
+LaTeX Info: Redefining \ttfamily on input line 139.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 142.
+LaTeX Info: Redefining \sffamily on input line 142.
+LaTeX Info: Redefining \ttfamily on input line 142.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 145.
+LaTeX Info: Redefining \sffamily on input line 145.
+LaTeX Info: Redefining \ttfamily on input line 145.
+ [4]
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 147.
+LaTeX Info: Redefining \sffamily on input line 147.
+LaTeX Info: Redefining \ttfamily on input line 147.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 151.
+LaTeX Info: Redefining \sffamily on input line 151.
+LaTeX Info: Redefining \ttfamily on input line 151.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 154.
+LaTeX Info: Redefining \sffamily on input line 154.
+LaTeX Info: Redefining \ttfamily on input line 154.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 157.
+LaTeX Info: Redefining \sffamily on input line 157.
+LaTeX Info: Redefining \ttfamily on input line 157.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 159.
+LaTeX Info: Redefining \sffamily on input line 159.
+LaTeX Info: Redefining \ttfamily on input line 159.
+ [5]
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 167.
+LaTeX Info: Redefining \sffamily on input line 167.
+LaTeX Info: Redefining \ttfamily on input line 167.
+
+Overfull \hbox (0.16121pt too wide) in paragraph at lines 167--168
+\TU/NotoNastaliqUrdu(0)/m/n/14.4 مالی ذمہ داری کی مضبوطی ا
+یک ایسا باقاعدہ نظام ترتیب پاتا ہے جس میں ب
+اپ کی جانب سے کی گئی طویل عرصے کی کوششیں
+ []
+
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 169.
+LaTeX Info: Redefining \sffamily on input line 169.
+LaTeX Info: Redefining \ttfamily on input line 169.
+[6] (./swip_swp.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+)
+
+Here is how much of LuaTeX's memory you used:
+ 6925 strings out of 476553
+ 125038,1977958 words of node,token memory allocated
+ 690 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 26 dir, 2 glue, 4 kern, 1 glyph, 20 attribute, 56 g
+lue_spec, 20 attribute_list, 1 write nodes
+   avail lists: 2:246,3:3394,4:13,5:1136,6:30,7:7444,8:2,9:150,10:10,11:422
+ 28800 multiletter control sequences out of 65536+600000
+ 41 fonts using 3985407 bytes
+ 93i,6n,102p,1752b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/fonts/truetype/noto/NotoNastaliqUrdu-Regular.ttf></usr/share/texmf/f
+onts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/publ
+ic/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17
+-regular.otf>
+Output written on swip_swp.pdf (6 pages, 556346 bytes).
+
+PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
